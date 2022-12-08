@@ -1,7 +1,7 @@
 @charset "utf-a";
 /* CSS Document */
 body {
-    background-image: url(../IMAGES/Backround.jpg);
+    background-image: url(Backround.jpg);
     background-size: 100%;
     font-family: Cute anmimals,sans-serif, serif;
     margin:0;
